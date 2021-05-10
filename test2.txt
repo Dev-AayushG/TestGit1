@@ -1,0 +1,6 @@
+
+hi : version 1
+edit after " initial commit " .1
+testing git diff 
+
+
